@@ -1,0 +1,5 @@
+nc2grd is a utility converting NetCDF files to Golden Surfer .grd format
+
+Created in Visual Studio 2010
+
+For usage details see nc2grd_manual.doc
