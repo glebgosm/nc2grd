@@ -1,4 +1,5 @@
-nc2grd is a utility converting NetCDF files to Golden Surfer .grd format
+nc2grd is a utility converting NetCDF files to Golden Surfer .grd format.
+Additionaly, timeInfo is an auxiliary tool to extract time data from .nc files and store it in a temp .txt file.
 
 Created in Visual Studio 2010
 
